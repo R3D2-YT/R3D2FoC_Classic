@@ -185,7 +185,7 @@
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_FIGHTER </Encyclopedia_Unit_Class>
 		<Encyclopedia_Good_Against> TIE_Fighter TIE_Bomber Starviper_Fighter </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> Tartan_Patrol_Cruiser Broadside_Class_Cruiser Crusader_Gunship </Encyclopedia_Vulnerable_To>
-		<Space_Model_Name>rv_XWing.ALO</Space_Model_Name>
+		<Space_Model_Name>T65_XWing_Red.ALO</Space_Model_Name>
 		<Scale_Factor>0.7</Scale_Factor>
 		<Select_Box_Scale>70</Select_Box_Scale>
 		<Select_Box_Z_Adjust>1.0f</Select_Box_Z_Adjust>
@@ -611,7 +611,7 @@
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_BOMBER </Encyclopedia_Unit_Class>
 		<Encyclopedia_Good_Against> Star_Destroyer Victory_Destroyer Vengeance_Frigate </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> TIE_Fighter Tartan_Patrol_Cruiser Starviper_Fighter </Encyclopedia_Vulnerable_To>
-		<Space_Model_Name>rv_ywing.alo</Space_Model_Name>
+		<Space_Model_Name>BTLA4_YWing_Base.alo</Space_Model_Name>
 		<Scale_Factor>0.7</Scale_Factor>
 		<Select_Box_Scale>70</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-1</Select_Box_Z_Adjust>
@@ -872,7 +872,7 @@
 		<Encyclopedia_Text>TEXT_TOOLTIP_TIE_SCOUT</Encyclopedia_Text>
 		<Encyclopedia_Good_Against> Y-wing Z-95_Headhunter_Rebel </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> A-Wing Crusader_Gunship</Encyclopedia_Vulnerable_To>
-		<Space_Model_Name>EV_TIESCOUT.ALO</Space_Model_Name>
+		<Space_Model_Name>Ev_TieSRScout.ALO</Space_Model_Name>
 		<Mass>0.995</Mass>
 		<Scale_Factor>0.7</Scale_Factor>
 		<Fires_Forward>no</Fires_Forward>
