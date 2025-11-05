@@ -76,7 +76,7 @@
 		<Asteroid_Damage_Hit_Particles>Large_Damage_Space</Asteroid_Damage_Hit_Particles>
 		
 		<HardPoints>
-			HP_Nebulon_Weapon_FL, HP_Nebulon_Weapon_FR, HP_Nebulon_Weapon_BL, HP_Nebulon_Weapon_BR, HP_Nebulon_Engines
+			HP_Nebulon_Weapon_FL, HP_Nebulon_Weapon_FR, HP_Nebulon_Weapon_BL, HP_Nebulon_Weapon_BR
 		</HardPoints>
 
 		<Target_Bones> MISSILE_TARGET00, MISSILE_TARGET01 </Target_Bones>
@@ -211,7 +211,7 @@
 		<Encyclopedia_Good_Against> Tartan_Patrol_Cruiser Crusader_Gunship Broadside_Class_Cruiser </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> TIE_Bomber Star_Destroyer Kedalbe_Battleship</Encyclopedia_Vulnerable_To>
 		<GUI_Row> 1 </GUI_Row>
-		<Space_Model_Name>RV_ASSAULTFRIGATE.ALO</Space_Model_Name>
+		<Space_Model_Name>Rv_AsssaultFrigateMK2_Base.ALO</Space_Model_Name>
 		<Select_Box_Scale>330</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-30</Select_Box_Z_Adjust>
 		<Mass>0.9995</Mass>
@@ -415,11 +415,11 @@
 		<Encyclopedia_Good_Against> Corellian_Corvette Corellian_Gunboat Crusader_Gunship </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> Y-wing Skipray_Blastboat Calamari_Cruiser </Encyclopedia_Vulnerable_To>
 		<GUI_Row> 1 </GUI_Row>
-		<Space_Model_Name>EV_VictoryStarDestroyer.alo</Space_Model_Name>
+		<Space_Model_Name>Ev_VSD-1_Base.alo</Space_Model_Name>
 		<Select_Box_Scale>350</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-30</Select_Box_Z_Adjust>
 		<Mass>0.9995</Mass>
-		<Scale_Factor>0.85</Scale_Factor>
+		<Scale_Factor>0.45</Scale_Factor>
 
         <Ranking_In_Category>6</Ranking_In_Category>
 		<Dense_FOW_Reveal_Range_Multiplier>0.2</Dense_FOW_Reveal_Range_Multiplier>
@@ -482,7 +482,7 @@
 		<Death_Clone>Damage_Normal, Victory_Destroyer_Death_Clone</Death_Clone>
 
 		<HardPoints>
-			HP_Victory_Weapon_01, HP_Victory_Weapon_02, HP_Victory_Weapon_03, HP_Victory_Shields_01, HP_Victory_Engines_01, HP_Victory_Fighter_Bay
+			HP_Victory_Weapon_01, HP_Victory_Weapon_02, HP_Victory_Weapon_03, HP_Victory_Weapon_04, HP_Victory_Shields_01, HP_Victory_Engines_01, HP_Victory_Fighter_Bay
 		</HardPoints>
 
 		<CategoryMask> Frigate | AntiCorvette</CategoryMask>
@@ -624,11 +624,11 @@
 		<Encyclopedia_Good_Against> Corellian_Corvette Marauder_Missile_Cruiser Crusader_Gunship </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> Calamari_Cruiser Skipray_Blastboat Y-wing </Encyclopedia_Vulnerable_To>
 		<GUI_Row> 1 </GUI_Row>
-		<Space_Model_Name>EV_ACCLAMATOR.ALO</Space_Model_Name>
+		<Space_Model_Name>Ev_Acclamator1.ALO</Space_Model_Name>
 		<Select_Box_Scale>350</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-30</Select_Box_Z_Adjust>
 		<Mass>0.9995</Mass>
-		<Scale_Factor>0.85</Scale_Factor>
+		<Scale_Factor>0.40</Scale_Factor>
 
         <Ranking_In_Category>6</Ranking_In_Category>
 		<Dense_FOW_Reveal_Range_Multiplier>0.2</Dense_FOW_Reveal_Range_Multiplier>
@@ -698,7 +698,7 @@
 		<Reserve_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 2</Reserve_Spawned_Units_Tech_0> 
 		
 		<HardPoints>
-			HP_Acclamator_Weapon_FL, HP_Acclamator_Weapon_FR, HP_Acclamator_Weapon_FC, HP_Acclamator_Weapon_BL, HP_Acclamator_Weapon_BR, HP_Acclamator_Weapon_BC, HP_Acclamator_Engines, HP_Acclamator_Fighter_Bay
+			HP_Acclamator_Weapon_FL, HP_Acclamator_Weapon_FR, HP_Acclamator_Weapon_FC, HP_Acclamator_Weapon_BL, HP_Acclamator_Weapon_BR, HP_Acclamator_Weapon_BC_00, HP_Acclamator_Weapon_BC_01, HP_Acclamator_Engines, HP_Acclamator_Fighter_Bay
 		</HardPoints>
 
 		<CategoryMask> Frigate | AntiCorvette</CategoryMask>
@@ -823,11 +823,11 @@
 		<Encyclopedia_Good_Against> Marauder_Missile_Cruiser Interceptor4_Frigate</Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> Calamari_Cruiser Y-wing Skipray_Blastboat</Encyclopedia_Vulnerable_To>
 		<GUI_Row> 1 </GUI_Row>
-		<Space_Model_Name>EV_Interdictor.alo</Space_Model_Name>
+		<Space_Model_Name>Ev_Interdictor.alo</Space_Model_Name>
 		<Select_Box_Scale>250</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-30</Select_Box_Z_Adjust>
 		<Mass>0.9995</Mass>
-		<Scale_Factor>1.0</Scale_Factor>
+		<Scale_Factor>0.5</Scale_Factor>
 		<Dense_FOW_Reveal_Range_Multiplier>0.2</Dense_FOW_Reveal_Range_Multiplier>
 
         <Reinforcement_Prevention_Radius> 1800 </Reinforcement_Prevention_Radius>
@@ -893,7 +893,7 @@
 		<Targeting_Max_Attack_Distance>800.0</Targeting_Max_Attack_Distance>
 
 		<HardPoints>
-			HP_Interdictor_Weapon_01, HP_Interdictor_Weapon_02, HP_Interdictor_Weapon_03, HP_Interdictor_Weapon_04,HP_Interdictor_GravWell_01, HP_Interdictor_Shields_01, HP_Interdictor_Engines_01
+			HP_Interdictor_Weapon_01, HP_Interdictor_Weapon_02, HP_Interdictor_Weapon_03, HP_Interdictor_Weapon_04,HP_Interdictor_GravWell_01, HP_Interdictor_Shields_01
 		</HardPoints>
 
 		<Asteroid_Damage_Hit_Particles>Large_Damage_Space</Asteroid_Damage_Hit_Particles>
