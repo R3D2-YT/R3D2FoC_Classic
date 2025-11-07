@@ -20,15 +20,15 @@
 		<Maintenance_Cost>0.3</Maintenance_Cost>
 		<Collision_Box_Modifier>250.0</Collision_Box_Modifier>
 		<Affiliation>Empire</Affiliation>
-		<Tech_Level>99</Tech_Level>
+		<Tech_Level>5</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>5</Required_Star_Base_Level>
 		<Required_Special_Structures />
-		<Required_Planets />
+		<Required_Planets>The_Maw</Required_Planets>
 		<Build_Limit_Current_Per_Player>1</Build_Limit_Current_Per_Player>
 		<Build_Limit_Lifetime_Per_Player>1</Build_Limit_Lifetime_Per_Player>
-		<Build_Cost_Credits>20000</Build_Cost_Credits>
+		<Build_Cost_Credits>100000</Build_Cost_Credits>
 		<Build_Time_Seconds>310</Build_Time_Seconds> <!-- 310 = 5 minutes 10 seconds (to hear 5 minutes until complete V/O -->
 		<Build_Tab_Special_Structures>Yes</Build_Tab_Special_Structures>
 		<Autoresolve_Health>5</Autoresolve_Health>
@@ -121,9 +121,14 @@
 	<SpaceUnit Name="Death_Star_II">
 	
 		<Variant_Of_Existing_Type>Death_Star</Variant_Of_Existing_Type>
+
+		<Icon_Name>i_button_death_star_II_complete.tga</Icon_Name>
 		
 		<Text_ID>TEXT_UNIT_DEATH_STAR_II</Text_ID>
 		<Encyclopedia_Text>TEXT_TOOLTIP_DEATH_STAR_II</Encyclopedia_Text>
+		<Required_Planets>Endor</Required_Planets>
+
+		<Build_Cost_Credits>200000</Build_Cost_Credits>
 		
 		<Tech_Level>5</Tech_Level>
 		<Space_Model_Name>w_planet_deathstar02_II.alo</Space_Model_Name>
