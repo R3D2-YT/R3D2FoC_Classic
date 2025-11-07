@@ -404,8 +404,6 @@
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 	</SpaceUnit>
 
-
-
 	<SpaceUnit Name="Star_Destroyer">
 		<Variant_Of_Existing_Type>Generic_Star_Destroyer</Variant_Of_Existing_Type>
 		<Tech_Level>4</Tech_Level>
