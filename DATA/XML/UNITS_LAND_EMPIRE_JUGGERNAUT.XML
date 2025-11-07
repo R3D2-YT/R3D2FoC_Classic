@@ -279,7 +279,7 @@
 		<Encyclopedia_Vulnerable_To> T4B_Tank MZ8_Pulse_Cannon_Tank </Encyclopedia_Vulnerable_To>
   		<Encyclopedia_Text>TEXT_TOOLTIP_JUGGERNAUT</Encyclopedia_Text>
 		<Encyclopedia_Unit_Class>TEXT_ENCYCLOPEDIA_CLASS_TRANSPORT</Encyclopedia_Unit_Class>
-		<Icon_Name>i_button_ev_juggernaut.tga</Icon_Name>
+		<Icon_Name>i_button_a4_juggernaut.tga</Icon_Name>
 	
 		<Select_Box_Scale>200</Select_Box_Scale>
 		<Select_Box_Z_Adjust>3.0f</Select_Box_Z_Adjust>
@@ -288,7 +288,7 @@
 
 		<Land_Model_Name>Ev_JA5.alo</Land_Model_Name>
 		<Mass>1.0</Mass>
-		<Scale_Factor>1.0</Scale_Factor>
+		<Scale_Factor>0.75</Scale_Factor>
 		<Max_Speed>1.5</Max_Speed>
 		<Max_Rate_Of_Turn>0.9</Max_Rate_Of_Turn>
 		<Space_Layer> Land </Space_Layer>
@@ -325,7 +325,7 @@
 		<LandBehavior>AFFECTED_BY_SHIELD, WALK_LOCOMOTOR, IDLE, TARGETING, WEAPON, TURRET, POWERED, REVEAL, HIDE_WHEN_FOGGED, SQUASH, SURFACE_FX, UNIT_AI, TELEKINESIS_TARGET,STUNNABLE,DAMAGE_TRACKING, GARRISON_VEHICLE, ABILITY_COUNTDOWN</LandBehavior>
 
 		<Garrison_Category> Infantry, Vehicle </Garrison_Category>
-		<Num_Garrison_Slots>10</Num_Garrison_Slots>
+		<Num_Garrison_Slots>5</Num_Garrison_Slots>
 		<Garrison_Exit_Dist>0</Garrison_Exit_Dist>
 		<Garrison_Enter_Dist>0</Garrison_Enter_Dist>
 		<Garrison_Radius>30</Garrison_Radius>
@@ -340,8 +340,8 @@
 
 		<Turret_Rotate_Extent_Degrees>200</Turret_Rotate_Extent_Degrees>
 		<Turret_Elevate_Extent_Degrees>40</Turret_Elevate_Extent_Degrees>
-		<Turret_Bone_Name>b_turret</Turret_Bone_Name>
-		<Barrel_Bone_Name>b_barrel</Barrel_Bone_Name>
+		<Turret_Bone_Name>turretf</Turret_Bone_Name>
+		<Barrel_Bone_Name>muzzlea_00</Barrel_Bone_Name>
 		<Turret_Rotate_Speed>5.0</Turret_Rotate_Speed>
 		<Apply_Z_Turret_Rotate_To_Axis>2</Apply_Z_Turret_Rotate_To_Axis>
 		<Apply_Y_Turret_Rotate_To_Axis>1</Apply_Y_Turret_Rotate_To_Axis>
@@ -415,9 +415,9 @@
 		<Score_Cost_Credits>200</Score_Cost_Credits>
 		<Weather_Category>Tracked</Weather_Category>
 		<Influences_Capture_Point> False </Influences_Capture_Point>
-		<Vehicle_Thief_Inside_Clone>HAV_Juggernaut_Captured</Vehicle_Thief_Inside_Clone>
+		<Vehicle_Thief_Inside_Clone></Vehicle_Thief_Inside_Clone>
 
-      <Garrison_Bone_Names>b_garrison_00</Garrison_Bone_Names>
+       <Garrison_Bone_Names>root</Garrison_Bone_Names>
 
 		<Tactical_Bribe_Cost>900</Tactical_Bribe_Cost>
 		<Lua_Script>ObjectScript_PointDefense</Lua_Script>
@@ -447,7 +447,7 @@
 		<Build_Initially_Locked>No</Build_Initially_Locked>
 		<Build_Can_Be_Unlocked_By_Slicer>No</Build_Can_Be_Unlocked_By_Slicer>
 		<Slice_Cost_Credits>1400</Slice_Cost_Credits>
-		<Tech_Level>3</Tech_Level>
+		<Tech_Level>1</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>0</Required_Star_Base_Level>
