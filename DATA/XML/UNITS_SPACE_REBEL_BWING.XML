@@ -17,7 +17,7 @@
 		<Encyclopedia_Vulnerable_To> Tartan_Patrol_Cruiser TIE_Defender Crusader_Gunship</Encyclopedia_Vulnerable_To>
 		<Space_Model_Name>rv_bwing.alo</Space_Model_Name>
 		<Icon_Name>i_button_RV_BWing.tga</Icon_Name>
-		<Scale_Factor>0.7</Scale_Factor>
+		<Scale_Factor>0.4</Scale_Factor>
 		<Select_Box_Scale>70</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-1</Select_Box_Z_Adjust>
 

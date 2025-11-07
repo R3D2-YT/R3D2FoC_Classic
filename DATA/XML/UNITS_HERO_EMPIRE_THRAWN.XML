@@ -185,7 +185,7 @@
 		<Encyclopedia_Vulnerable_To> B-Wing MC30_Frigate Skipray_Blastboat </Encyclopedia_Vulnerable_To>
 		<Icon_Name>i_button_thrawn.tga</Icon_Name>
 
-		<Space_Model_Name>EV_StarDestoyer_Thrawn.alo</Space_Model_Name>
+		<Space_Model_Name>Imperator_1_Chimaera.alo</Space_Model_Name>
 
 		<Is_Named_Hero>Yes</Is_Named_Hero>
 		
@@ -206,16 +206,11 @@
 		<SpaceBehavior> ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, POWERED, SHIELDED, HIDE_WHEN_FOGGED, REVEAL, TARGETING, UNIT_AI, ASTEROID_FIELD_DAMAGE, ION_STUN_EFFECT, NEBULA, SPAWN_SQUADRON </SpaceBehavior>
 
 		<HardPoints> 
-			HP_Thrawn_SD_Weapon_FL,
-			HP_Thrawn_SD_Weapon_FR,
-			HP_Thrawn_SD_Weapon_BL,
-			HP_Thrawn_SD_Weapon_BR,
-			HP_Thrawn_SD_Weapon_ML,
-			HP_Thrawn_SD_Weapon_MR, 
-			HP_Thrawn_SD_Shield_Generator,
-			HP_Thrawn_SD_Engines,
-			HP_Thrawn_SD_Fighter_Bay,
-			HP_Thrawn_SD_Tractor_Beam
+			HP_Star_Destroyer_Weapon_FL, HP_Star_Destroyer_Weapon_FR, HP_Star_Destroyer_Weapon_BL, HP_Star_Destroyer_Weapon_BR,
+			HP_Star_Destroyer_Weapon_ML, HP_Star_Destroyer_Weapon_MR, HP_Star_Destroyer_Shield_Generator,
+			HP_Star_Destroyer_Tractor_Beam, HP_Star_Destroyer_Fighter_Bay,
+			HP_Star_Destroyer_DUMMY_00, HP_Star_Destroyer_DUMMY_01, HP_Star_Destroyer_DUMMY_02,
+			HP_Star_Destroyer_DUMMY_03, HP_Star_Destroyer_DUMMY_04, HP_Star_Destroyer_DUMMY_05
 		</HardPoints>
 		
 		<SFXEvent_Select>Unit_Select_Thrawn</SFXEvent_Select>

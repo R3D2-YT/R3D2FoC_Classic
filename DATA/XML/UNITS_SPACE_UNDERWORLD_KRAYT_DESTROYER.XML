@@ -15,11 +15,11 @@
 		<Icon_Name>i_button_uv_krayt.tga</Icon_Name>
 
 		<GUI_Row> 1 </GUI_Row>
-		<Space_Model_Name>UV_KRAYTCLASSDESTROYER.ALO</Space_Model_Name>
+		<Space_Model_Name>Uv_Aggressor_Underworld.ALO</Space_Model_Name>
 		<Select_Box_Scale>740</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-50</Select_Box_Z_Adjust>
 		<Mass>0.995</Mass>
-		<Scale_Factor>1</Scale_Factor>
+		<Scale_Factor>0.65</Scale_Factor>
 		
 		<Damage>60</Damage>
 		<Dense_FOW_Reveal_Range_Multiplier>0.24</Dense_FOW_Reveal_Range_Multiplier>
@@ -82,13 +82,19 @@
 		<Targeting_Max_Attack_Distance>2000.0</Targeting_Max_Attack_Distance>
 
 		<HardPoints>
-			HP_KRAYT_SHIELD_GEN,
+			HP_KRAYT_SHIELD_GEN_00,
+			HP_KRAYT_SHIELD_GEN_01,
 			HP_KRAYT_MEGAWEAPON_ION,
 			HP_KRAYT_MEGAWEAPON_DAMAGE,
 			HP_KRAYT_TURBOLASER_LEFT,
 			HP_KRAYT_TURBOLASER_RIGHT,
 			HP_KRAYT_TRACTOR_DUMMY,
-			HP_KRAYT_ENGINES
+			HP_KRAYT_ENGINES,
+			HP_KRAYT_DUMMY_00,
+			HP_KRAYT_DUMMY_01,
+			HP_KRAYT_DUMMY_02,
+			HP_KRAYT_DUMMY_03,
+			HP_KRAYT_DUMMY_04
 		</HardPoints>
 
 		<SFXEvent_Build_Started>UHD_Build_Vehicle</SFXEvent_Build_Started>

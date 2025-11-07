@@ -13,7 +13,7 @@
 		<Icon_Name>i_button_mc30c.tga</Icon_Name>
 		
 		<GUI_Row> 1 </GUI_Row>
-		<Space_Model_Name>RV_MC30CMONCAL.ALO</Space_Model_Name>
+		<Space_Model_Name>Rv_MC30c.ALO</Space_Model_Name>
 		<Select_Box_Scale>370</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-30</Select_Box_Z_Adjust>
 		<Mass>0.9995</Mass>
@@ -85,6 +85,7 @@
 
 		<HardPoints>
 			HP_MC30_LASER_00,
+			HP_MC30_LASER_01,
 			HP_MC30_TORP_REAR_DUMMY,
 			HP_MC30_TORP_LEFT_FRONT,
 			HP_MC30_TORP_RIGHT_FRONT,

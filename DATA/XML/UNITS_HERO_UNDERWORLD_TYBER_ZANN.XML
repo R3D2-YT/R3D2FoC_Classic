@@ -532,8 +532,8 @@
 		<Encyclopedia_Text> TEXT_TOOLTIP_PEACEBRINGER </Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_CRIMELORD </Encyclopedia_Unit_Class>
 
-		<Space_Model_Name>UV_KRAYTCLASSDESTROYER_TYBER.ALO</Space_Model_Name>
-		<Scale_Factor>1.2</Scale_Factor>
+		<Space_Model_Name>Uv_Aggressor_Merciless.ALO</Space_Model_Name>
+		
 		<Select_Box_Scale>750</Select_Box_Scale>
 		<Icon_Name>i_button_tyber.tga</Icon_Name>
 		<Is_Named_Hero>true</Is_Named_Hero>
@@ -557,13 +557,19 @@
 		<Max_Thrust>0.4</Max_Thrust>
 
 		<HardPoints>
-			HP_KRAYT_SHIELD_GEN,
+			HP_KRAYT_SHIELD_GEN_00,
+			HP_KRAYT_SHIELD_GEN_01,
 			HP_KRAYT_MEGAWEAPON_ION,
 			HP_KRAYT_MEGAWEAPON_DAMAGE,
-			HP_KRAYT_TURBOLASER_LEFT_PEACEBRINGER,
-			HP_KRAYT_TURBOLASER_RIGHT_PEACEBRINGER,
+			HP_KRAYT_TURBOLASER_LEFT,
+			HP_KRAYT_TURBOLASER_RIGHT,
 			HP_KRAYT_TRACTOR_DUMMY,
-			HP_KRAYT_ENGINES
+			HP_KRAYT_ENGINES,
+			HP_KRAYT_DUMMY_00,
+			HP_KRAYT_DUMMY_01,
+			HP_KRAYT_DUMMY_02,
+			HP_KRAYT_DUMMY_03,
+			HP_KRAYT_DUMMY_04
 		</HardPoints>
 
 		<SFXEvent_Select>Unit_Select_Tyber_Zann_Space</SFXEvent_Select>
