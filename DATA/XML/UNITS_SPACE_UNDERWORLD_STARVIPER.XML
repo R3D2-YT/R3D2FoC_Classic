@@ -14,7 +14,7 @@
 		<Encyclopedia_Vulnerable_To> Corellian_Corvette Tartan_Patrol_Cruiser </Encyclopedia_Vulnerable_To>
 		<Icon_Name>i_button_uv_starviper.tga</Icon_Name>
 
-		<Space_Model_Name>nv_Virago.ALO</Space_Model_Name>
+		<Space_Model_Name>Uv_Starviper_Base.ALO</Space_Model_Name>
 		<Scale_Factor>0.9</Scale_Factor>
 		<Select_Box_Scale>40</Select_Box_Scale>
 		<Select_Box_Z_Adjust>1.0f</Select_Box_Z_Adjust>

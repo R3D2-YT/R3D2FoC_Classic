@@ -17,11 +17,11 @@
 		<Icon_Name>i_button_Keldabe.tga</Icon_Name>
 
 		<GUI_Row> 1 </GUI_Row>
-		<Space_Model_Name>UV_KedalbeBattleship.alo</Space_Model_Name>
+		<Space_Model_Name>Uv_KeldabeBattleship.alo</Space_Model_Name>
 		<Select_Box_Scale>890</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-50</Select_Box_Z_Adjust>
 		<Mass>0.995</Mass>
-		<Scale_Factor>1</Scale_Factor>
+		<Scale_Factor>0.50</Scale_Factor>
 		<Size_Value>360</Size_Value>
 		<No_Colorization_Color> 255, 255, 255, 255 </No_Colorization_Color>
 
@@ -89,6 +89,7 @@
 			HP_KEDALBE_RIGHT_ION_00,
 			HP_KEDALBE_MASS_DRIVER_FRONT,
 			HP_KEDALBE_MASS_DRIVER_BACK,
+			HP_KEDALBE_MASS_DRIVER_BACK_00,
 			HP_KEDALBE_SHIELD_LEECH_00,
 			HP_KEDALBE_ENGINES_00,
 			HP_KEDALBE_ENGINES_01
