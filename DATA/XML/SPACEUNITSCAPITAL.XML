@@ -220,7 +220,7 @@
 		<GUI_Bracket_Height>500</GUI_Bracket_Height>
 		<GUI_Bracket_Size>2</GUI_Bracket_Size>
 
-		<Build_Cost_Credits>5000</Build_Cost_Credits>
+		<Build_Cost_Credits>8000</Build_Cost_Credits>
 
 		<MovementClass> Space </MovementClass>
 		<Space_Layer> Capital </Space_Layer>
