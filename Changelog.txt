@@ -1,0 +1,28 @@
+1.0
+
+Massively improved visuals
+
+ - New models for almost all base game (space) units
+ - New models for galactic planets
+ - Improved shaders
+ - New galactic map background
+
+New Units for all factions
+
+ - Empire
+   - Tector Class Star Destroyer
+   - TIE Avenger Squadron
+
+ - Rebellion
+   - MC80 Home One Type
+
+ - Zahn Consortium
+   - Z95 Headhunter Squadron
+   - A4 Juggernaut
+   - B1 Battle Droid
+   - B2 Battle Droid
+
+Misc Changes
+
+ - The Death Star and Death Star II are both avalilable to the Empire at Tech 5 (with a level 5 starbase on the Maw and Endor respectively)
+   - The price of both Death Stars has been massively raised
