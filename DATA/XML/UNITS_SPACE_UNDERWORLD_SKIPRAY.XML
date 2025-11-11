@@ -55,7 +55,7 @@
 		<Squadron_Capacity>0</Squadron_Capacity>
 		<Number_per_Squadron>3</Number_per_Squadron>
 
-		<SpaceBehavior>ABILITY_COUNTDOWN, FIGHTER_LOCOMOTOR, SELECTABLE, TARGETING, POWERED, SHIELDED, HIDE_WHEN_FOGGED, AMBIENT_SFX, DAMAGE_TRACKING, REVEAL, NEBULA </SpaceBehavior>
+		<SpaceBehavior>ABILITY_COUNTDOWN, HUNT, FIGHTER_LOCOMOTOR, SELECTABLE, TARGETING, POWERED, SHIELDED, HIDE_WHEN_FOGGED, AMBIENT_SFX, DAMAGE_TRACKING, REVEAL, NEBULA </SpaceBehavior>
 		<Collidable_By_Projectile_Living>Yes</Collidable_By_Projectile_Living>
 
 		<Land_FOW_Reveal_Range>130.0</Land_FOW_Reveal_Range>
@@ -135,6 +135,10 @@
                 <SFXEvent_GUI_Unit_Ability_Activated> Unit_Jam_Sensors_On_Skipray </SFXEvent_GUI_Unit_Ability_Activated> 				
 				<SFXEvent_GUI_Unit_Ability_Deactivated> Unit_Jam_Sensors_Off_Skipray </SFXEvent_GUI_Unit_Ability_Deactivated> 
 				<Must_Be_Bought_On_Black_Market>Yes</Must_Be_Bought_On_Black_Market>
+			</Unit_Ability>
+
+			<Unit_Ability>
+				<Type>HUNT</Type>
 			</Unit_Ability>
 
 		</Unit_Abilities_Data>
@@ -224,6 +228,10 @@
 				<Expiration_Seconds>30.0</Expiration_Seconds>
 				<Effective_Radius>300.0</Effective_Radius> 
                 <Must_Be_Bought_On_Black_Market>Yes</Must_Be_Bought_On_Black_Market>
+			</Unit_Ability>
+
+			<Unit_Ability>
+				<Type>HUNT</Type>
 			</Unit_Ability>
 
 		</Unit_Abilities_Data>

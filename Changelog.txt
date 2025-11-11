@@ -1,29 +1,28 @@
 0.5 (Current Version)
 
-Massively improved visuals
+Massively improved visuals:
 
  - New models for almost all base game (space) units
  - New models for galactic planets
  - Improved shaders
  - New galactic map background
 
-New Units for all factions
+New Units for all factions:
 
- - Empire
+ - Empire:
    - Tector Class Star Destroyer
    - TIE Avenger Squadron
    - Ton Falk Carrier
 
- - Rebellion
+ - Rebellion:
    - MC80 Home One Type
 
- - Zahn Consortium
-   - Z95 Headhunter Squadron
+ - Zahn Consortium:
    - A4 Juggernaut
    - B1 Battle Droid
    - B2 Battle Droid
 
-Misc Changes
+Misc Changes:
 
  - The Death Star and Death Star II are both avalilable to the Empire at Tech 5 (with a level 5 starbase on the Maw and Endor respectively)
    - The price of both Death Stars has been massively raised
@@ -31,3 +30,7 @@ Misc Changes
  - The Executor can only be built on Kuat or Fondor
 
  - Victory Star destroyer now no longer carries TIE Bombers or Interceptors, now only carries TIE Fighters
+
+ - Most fighters can now make use of the "Hunt For Enemies" ability
+
+ - The Zahn Consortium can now build Z95 Headhunter Squadrons

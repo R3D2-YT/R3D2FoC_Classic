@@ -794,6 +794,7 @@
 		<Tactical_Buildable_Objects_Multiplayer> 
 			Underworld,
 				StarViper_Squadron, 
+				Z95_Headhunter_Underworld_Squadron,
 				Skipray_Squadron,
 				US_Reinforced_Structure_L1_Upgrade,
 				US_Magnetically_Sealed_Armor_L1_Upgrade,
@@ -875,6 +876,7 @@
 		<Tactical_Buildable_Objects_Multiplayer> 
 			Underworld,
 				StarViper_Squadron, 
+				Z95_Headhunter_Underworld_Squadron,
 				Crusader_Gunship,
 				Skipray_Squadron,
 				Interceptor4_Frigate,
@@ -963,6 +965,7 @@
 		<Tactical_Buildable_Objects_Multiplayer> 
 			Underworld,
 				StarViper_Squadron, 
+				Z95_Headhunter_Underworld_Squadron,
 				Crusader_Gunship,
 				Skipray_Squadron,
 				Interceptor4_Frigate,
@@ -1063,6 +1066,7 @@
 		<Tactical_Buildable_Objects_Multiplayer> 
 			Underworld,
 				StarViper_Squadron, 
+				Z95_Headhunter_Underworld_Squadron,
 				Crusader_Gunship,
 				Skipray_Squadron,
 				Interceptor4_Frigate,
@@ -1174,6 +1178,7 @@
 		<Tactical_Buildable_Objects_Multiplayer> 
 			Underworld,
 				StarViper_Squadron, 
+				Z95_Headhunter_Underworld_Squadron,
 				Crusader_Gunship,
 				Skipray_Squadron,
 				Interceptor4_Frigate,

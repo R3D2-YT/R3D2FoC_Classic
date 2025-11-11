@@ -62,6 +62,11 @@
 			<Mod_Multiplier>ENERGY_REGEN_MULTIPLIER,	1.0f</Mod_Multiplier>
 			<Mod_Multiplier>SPEED_MULTIPLIER,		2</Mod_Multiplier>
 			</Unit_Ability>
+
+			<Unit_Ability>
+				<Type>HUNT</Type>
+			</Unit_Ability>
+
 		</Unit_Abilities_Data>
 		
 		<Encyclopedia_Text>TEXT_TOOLTIP_X_WING</Encyclopedia_Text>
@@ -137,6 +142,11 @@
 			<Unit_Ability>
 				<Type>ION_CANNON_SHOT</Type>
 			</Unit_Ability>
+
+			<Unit_Ability>
+				<Type>HUNT</Type>
+			</Unit_Ability>
+			
 		</Unit_Abilities_Data>
 		
 		<Encyclopedia_Text>TEXT_TOOLTIP_Y_WING</Encyclopedia_Text>
@@ -320,6 +330,10 @@
 		<GUI_Offset>0 0 0</GUI_Offset>
 		<GUI_Velocity>45</GUI_Velocity>
 
+		<Unit_Ability>
+			<Type>HUNT</Type>
+		</Unit_Ability>
+
 		<SFXEvent_Build_Started>EHD_Build_Vehicle</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Unit_Canceled</SFXEvent_Build_Cancelled>
 		<SFXEvent_Build_Complete>Unit_Complete_Tie_Bomber</SFXEvent_Build_Complete>
@@ -404,6 +418,10 @@
 			<Unit_Ability>
 				<Type>LURE</Type>
 				<!-- details in the unit's XML -->
+			</Unit_Ability>
+
+			<Unit_Ability>
+				<Type>HUNT</Type>
 			</Unit_Ability>
 			
 		</Unit_Abilities_Data>
@@ -491,6 +509,10 @@
 				<Effective_Radius> 0.0 </Effective_Radius> <!-- 0.0 means no distance factor, unlimited to entire map -->
 				<Area_Effect_Decal_Distance> 600.0 </Area_Effect_Decal_Distance> 
 				<GUI_Activated_Ability_Name>  </GUI_Activated_Ability_Name> <!-- GUI Command Bar support -->
+			</Unit_Ability>
+
+			<Unit_Ability>
+				<Type>HUNT</Type>
 			</Unit_Ability>
 			
 		</Unit_Abilities_Data>
