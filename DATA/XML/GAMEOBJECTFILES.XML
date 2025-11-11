@@ -91,6 +91,7 @@
 
 	<File>Units_Hero_Empire_Thrawn.xml</File>
 
+	<File>Units_Space_Empire_TIE_Avenger.xml</File>
 	<File>Units_Space_Empire_TIE_Defender.xml</File>
 	<File>Units_Space_Empire_TIE_Interceptor.xml</File>
 	<File>Units_Space_Empire_TIE_Phantom.xml</File>
@@ -130,6 +131,7 @@
 	<File>UNITS_LAND_UNDERWORLD_Battledroids.XML</File>
 	<File>Units_Land_Underworld_DestroyerDroids.xml</File>
 	<File>Units_Land_Underworld_Vornskr.xml</File>
+	<File>UNITS_LAND_UNDERWORLD_JUGGERNAUT_A4.xml</File>
 	<File>Units_Land_Underworld_F9TZ_Transport.xml</File>
 	<File>Units_Land_Underworld_MAL.xml</File>
 	<File>Units_Land_Underworld_PulseTank.xml</File>

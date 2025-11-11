@@ -12,6 +12,8 @@ New Units for all factions
  - Empire
    - Tector Class Star Destroyer
    - TIE Avenger Squadron
+   - Ton Falk Carrier
+   - Lancer Frigate
 
  - Rebellion
    - MC80 Home One Type
