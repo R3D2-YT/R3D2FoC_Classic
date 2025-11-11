@@ -1,4 +1,4 @@
-1.0
+0.5 (Current Version)
 
 Massively improved visuals
 
@@ -13,7 +13,6 @@ New Units for all factions
    - Tector Class Star Destroyer
    - TIE Avenger Squadron
    - Ton Falk Carrier
-   - Lancer Frigate
 
  - Rebellion
    - MC80 Home One Type
@@ -28,3 +27,7 @@ Misc Changes
 
  - The Death Star and Death Star II are both avalilable to the Empire at Tech 5 (with a level 5 starbase on the Maw and Endor respectively)
    - The price of both Death Stars has been massively raised
+
+ - The Executor can only be built on Kuat or Fondor
+
+ - Victory Star destroyer now no longer carries TIE Bombers or Interceptors, now only carries TIE Fighters
