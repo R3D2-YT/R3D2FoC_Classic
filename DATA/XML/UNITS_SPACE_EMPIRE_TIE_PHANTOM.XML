@@ -57,7 +57,7 @@
 		<Build_Cost_Credits>30</Build_Cost_Credits>
 		<Build_Time_Seconds>5</Build_Time_Seconds>
 		<Size_Value>8</Size_Value>
-		<SpaceBehavior>ABILITY_COUNTDOWN,FIGHTER_LOCOMOTOR, SELECTABLE, TARGETING, WEAPON, POWERED, SHIELDED, HIDE_WHEN_FOGGED, AMBIENT_SFX, DAMAGE_TRACKING, NEBULA </SpaceBehavior>
+		<SpaceBehavior>ABILITY_COUNTDOWN,FIGHTER_LOCOMOTOR, HUNT, SELECTABLE, TARGETING, WEAPON, POWERED, SHIELDED, HIDE_WHEN_FOGGED, AMBIENT_SFX, DAMAGE_TRACKING, NEBULA </SpaceBehavior>
 		<Collidable_By_Projectile_Living>Yes</Collidable_By_Projectile_Living>
 		<Damage>3</Damage>
 
@@ -154,6 +154,11 @@
             <SFXEvent_GUI_Unit_Ability_Activated> Unit_Stealth_On_Tie_Phantom </SFXEvent_GUI_Unit_Ability_Activated>  				
 				<SFXEvent_GUI_Unit_Ability_Deactivated> Unit_Stealth_Off_Tie_Phantom </SFXEvent_GUI_Unit_Ability_Deactivated> 
             </Unit_Ability>
+
+			<Unit_Ability>
+				<Type>HUNT</Type>
+			</Unit_Ability>
+
 		</Unit_Abilities_Data>
 
         <Abilities SubObjectList="Yes">
@@ -239,6 +244,11 @@
                 <Recharge_Seconds>10.0</Recharge_Seconds>
 				<Expiration_Seconds>80.0</Expiration_Seconds>
             </Unit_Ability>
+
+			<Unit_Ability>
+				<Type>HUNT</Type>
+			</Unit_Ability>
+			
 		</Unit_Abilities_Data>
 
         <Abilities SubObjectList="Yes">

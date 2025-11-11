@@ -344,8 +344,6 @@
 		<Lua_Script>ObjectScript_PowerToShields</Lua_Script>
 	</UniqueUnit>
 
-
-
 	<SpaceUnit Name="Generic_Star_Destroyer">
 		<Text_ID>TEXT_UNIT_STAR_DESTROYER</Text_ID>
 		<Encyclopedia_Good_Against> Corellian_Corvette Interceptor4_Frigate Nebulon_B_Frigate </Encyclopedia_Good_Against>
@@ -361,7 +359,7 @@
 		<Select_Box_Scale>800</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-50</Select_Box_Z_Adjust>
 
-		<Scale_Factor>0.65</Scale_Factor>
+		<Scale_Factor>0.45</Scale_Factor>
 		<Mass>0.999</Mass>
 		<Dense_FOW_Reveal_Range_Multiplier>0.24</Dense_FOW_Reveal_Range_Multiplier>
 		<Multisample_FOW_Check>Yes</Multisample_FOW_Check>
