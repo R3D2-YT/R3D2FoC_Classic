@@ -307,6 +307,10 @@
                 <Must_Be_Bought_On_Black_Market>Yes</Must_Be_Bought_On_Black_Market>
             </Unit_Ability>
 
+			<Unit_Ability>
+				<Type>HUNT</Type>
+			</Unit_Ability>
+
 		</Unit_Abilities_Data>
 		
 	</Squadron>
@@ -386,6 +390,9 @@
                 <Must_Be_Bought_On_Black_Market>Yes</Must_Be_Bought_On_Black_Market>
             </Unit_Ability>
 
+			<Unit_Ability>
+				<Type>HUNT</Type>
+			</Unit_Ability>
 
 		</Unit_Abilities_Data>
 

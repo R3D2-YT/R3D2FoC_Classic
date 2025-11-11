@@ -568,18 +568,17 @@
 		<SFXEvent_Player_Taunt> Unit_Taunt_IG88   </SFXEvent_Player_Taunt>
 		<SFXEvent_Player_Taunt> Unit_Taunt_Silri </SFXEvent_Player_Taunt>
 
-		<!-- Sandbox tactical battle introduction Command Bar movie -->
+		<!-- Sandbox tactical battle introduction Command Bar movie 
 		<Tactical_Intro_Command_Bar_Movie_Name> Underworld_soldier_Loop </Tactical_Intro_Command_Bar_Movie_Name>
 
-		<!-- Sandbox tactical battle introduction SpeechEvents -->
-		<SpeechEvent_Tactical_Intro_Land_Attacker> GUS_INTRO_LAND_ATTACK_U_00 </SpeechEvent_Tactical_Intro_Land_Attacker> <!-- Default case for land battle as attacker -->
-		<SpeechEvent_Tactical_Intro_Land_Defender> GUS_INTRO_LAND_DEFEND_U_00  </SpeechEvent_Tactical_Intro_Land_Defender> <!-- Default case for land battle as defender -->
-		<SpeechEvent_Tactical_Intro_Space_Attacker> GUS_INTRO_SPACE_ATTACK_U_00 </SpeechEvent_Tactical_Intro_Space_Attacker> <!-- Default case for space battle as attacker -->
-		<SpeechEvent_Tactical_Intro_Space_Defender> GUS_INTRO_SPACE_DEFEND_U_00 </SpeechEvent_Tactical_Intro_Space_Defender> <!-- Default case for space battle as defender -->
-		<SpeechEvent_Tactical_Intro_Land_Raid_Attacker /> <!-- N/A for Underworld since they cannot raid -->
+		<SpeechEvent_Tactical_Intro_Land_Attacker> GUS_INTRO_LAND_ATTACK_U_00 </SpeechEvent_Tactical_Intro_Land_Attacker>
+		<SpeechEvent_Tactical_Intro_Land_Defender> GUS_INTRO_LAND_DEFEND_U_00  </SpeechEvent_Tactical_Intro_Land_Defender>
+		<SpeechEvent_Tactical_Intro_Space_Attacker> GUS_INTRO_SPACE_ATTACK_U_00 </SpeechEvent_Tactical_Intro_Space_Attacker>
+		<SpeechEvent_Tactical_Intro_Space_Defender> GUS_INTRO_SPACE_DEFEND_U_00 </SpeechEvent_Tactical_Intro_Space_Defender>
+		<SpeechEvent_Tactical_Intro_Land_Raid_Attacker />
 		<SpeechEvent_Tactical_Intro_Land_Raid_Defender> GUS_INTRO_LAND_DEFEND_U_02 </SpeechEvent_Tactical_Intro_Land_Raid_Defender>
 		<SpeechEvent_Tactical_Intro_Land_Attacker_Last_Location> GUS_INTRO_SPACE_ATTACK_U_05 </SpeechEvent_Tactical_Intro_Land_Attacker_Last_Location>
-		<SpeechEvent_Tactical_Intro_Land_Defender_Last_Location> GUS_INTRO_LAND_DEFEND_U_05 </SpeechEvent_Tactical_Intro_Land_Defender_Last_Location>
+		<SpeechEvent_Tactical_Intro_Land_Defender_Last_Location> GUS_INTRO_LAND_DEFEND_U_05 </SpeechEvent_Tactical_Intro_Land_Defender_Last_Location>-->
 
 
 		<!--  Note that conditionals will be evaluated in the order below, so order/priority is important!	-->

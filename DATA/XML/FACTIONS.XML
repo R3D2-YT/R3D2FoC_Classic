@@ -626,22 +626,20 @@
 		<SFXEvent_Player_Taunt> Unit_Taunt_Luke   </SFXEvent_Player_Taunt>
 		<SFXEvent_Player_Taunt> Unit_Laugh_Chewie </SFXEvent_Player_Taunt>
 
-		<!-- Sandbox tactical battle introduction Command Bar movie -->
+		<!-- Sandbox tactical battle introduction Command Bar movie 
 
-		<Tactical_Intro_Command_Bar_Movie_Name> Luke_Loop </Tactical_Intro_Command_Bar_Movie_Name>  <!-- PLACEHOLDER ASSET -->
+		<Tactical_Intro_Command_Bar_Movie_Name> Luke_Loop </Tactical_Intro_Command_Bar_Movie_Name>
 
-		<!-- Sandbox tactical battle introduction SpeechEvents -->
-
-		<SpeechEvent_Tactical_Intro_Land_Attacker> GRS_INTRO_LAND_ATTACK_R_00<!--, GRS_INTRO_LAND_ATTACK_R_01, GRS_INTRO_LAND_ATTACK_R_02, GRS_INTRO_LAND_ATTACK_R_03--> </SpeechEvent_Tactical_Intro_Land_Attacker>		<!-- Default case for land battle as attacker -->
-		<SpeechEvent_Tactical_Intro_Land_Defender> GRS_INTRO_LAND_DEFEND_R_00<!--, GRS_INTRO_LAND_DEFEND_R_01, GRS_INTRO_LAND_DEFEND_R_02, GRS_INTRO_LAND_DEFEND_R_03-->  </SpeechEvent_Tactical_Intro_Land_Defender> 	<!-- Default case for land battle as defender -->
-		<SpeechEvent_Tactical_Intro_Space_Attacker> GRS_INTRO_SPACE_ATTACK_R_00<!--, GRS_INTRO_SPACE_ATTACK_R_01, GRS_INTRO_SPACE_ATTACK_R_02, GRS_INTRO_SPACE_ATTACK_R_03-->  </SpeechEvent_Tactical_Intro_Space_Attacker> 	<!-- Default case for space battle as attacker -->
-		<SpeechEvent_Tactical_Intro_Space_Defender> GRS_INTRO_SPACE_DEFEND_R_00<!--, GRS_INTRO_SPACE_DEFEND_R_01, GRS_INTRO_SPACE_DEFEND_R_02, GRS_INTRO_SPACE_DEFEND_R_03-->  </SpeechEvent_Tactical_Intro_Space_Defender> 	<!-- Default case for space battle as defender -->
+		<SpeechEvent_Tactical_Intro_Land_Attacker> GRS_INTRO_LAND_ATTACK_R_00</SpeechEvent_Tactical_Intro_Land_Attacker>	
+		<SpeechEvent_Tactical_Intro_Land_Defender> GRS_INTRO_LAND_DEFEND_R_00</SpeechEvent_Tactical_Intro_Land_Defender> 	
+		<SpeechEvent_Tactical_Intro_Space_Attacker> GRS_INTRO_SPACE_ATTACK_R_00</SpeechEvent_Tactical_Intro_Space_Attacker> 	
+		<SpeechEvent_Tactical_Intro_Space_Defender> GRS_INTRO_SPACE_DEFEND_R_00</SpeechEvent_Tactical_Intro_Space_Defender>
 
 		<SpeechEvent_Tactical_Intro_Land_Raid_Attacker> GRS_INTRO_LAND_ATTACK_R_04 </SpeechEvent_Tactical_Intro_Land_Raid_Attacker>
-		<SpeechEvent_Tactical_Intro_Land_Raid_Defender> </SpeechEvent_Tactical_Intro_Land_Raid_Defender>  <!-- N/A for Rebels since no other Faction raids -->
+		<SpeechEvent_Tactical_Intro_Land_Raid_Defender> </SpeechEvent_Tactical_Intro_Land_Raid_Defender>
 
 		<SpeechEvent_Tactical_Intro_Land_Attacker_Last_Location> GRS_INTRO_SPACE_ATTACK_R_05 </SpeechEvent_Tactical_Intro_Land_Attacker_Last_Location>
-		<SpeechEvent_Tactical_Intro_Land_Defender_Last_Location> GRS_INTRO_LAND_DEFEND_R_05 </SpeechEvent_Tactical_Intro_Land_Defender_Last_Location>
+		<SpeechEvent_Tactical_Intro_Land_Defender_Last_Location> GRS_INTRO_LAND_DEFEND_R_05 </SpeechEvent_Tactical_Intro_Land_Defender_Last_Location> -->
 
 													<!-- Note that conditionals will be evaluated in the order below, so order/priority is important -->
 													<!-- -->  
@@ -1403,22 +1401,20 @@
 		<SFXEvent_Player_Taunt> Unit_Taunt_Boba_Fett   </SFXEvent_Player_Taunt>
 		<SFXEvent_Player_Taunt> Unit_Taunt_Emperor </SFXEvent_Player_Taunt>
 		
-		<!-- Sandbox tactical battle introduction Command Bar movie -->
+		<!-- Sandbox tactical battle introduction Command Bar movie
 
-		<Tactical_Intro_Command_Bar_Movie_Name> Stormtrooper_Loop </Tactical_Intro_Command_Bar_Movie_Name>  <!-- PLACEHOLDER ASSET -->
+		<Tactical_Intro_Command_Bar_Movie_Name> Stormtrooper_Loop </Tactical_Intro_Command_Bar_Movie_Name>
 
-		<!-- Sandbox tactical battle introduction SpeechEvents -->
-
-		<SpeechEvent_Tactical_Intro_Land_Attacker> GES_INTRO_LAND_ATTACK_E_00 <!--, GES_INTRO_LAND_ATTACK_E_01, GES_INTRO_LAND_ATTACK_E_02, GES_INTRO_LAND_ATTACK_E_03-->  </SpeechEvent_Tactical_Intro_Land_Attacker>		<!-- Default case for land battle as attacker -->
-		<SpeechEvent_Tactical_Intro_Land_Defender> GES_INTRO_LAND_DEFEND_E_00 <!--, GES_INTRO_LAND_DEFEND_E_01, GES_INTRO_LAND_DEFEND_E_02, GES_INTRO_LAND_DEFEND_E_03-->  </SpeechEvent_Tactical_Intro_Land_Defender> 	<!-- Default case for land battle as defender -->
-		<SpeechEvent_Tactical_Intro_Space_Attacker> GES_INTRO_SPACE_ATTACK_E_00 <!--, GES_INTRO_SPACE_ATTACK_E_01, GES_INTRO_SPACE_ATTACK_E_02, GES_INTRO_SPACE_ATTACK_E_03-->  </SpeechEvent_Tactical_Intro_Space_Attacker> 	<!-- Default case for space battle as attacker -->
-		<SpeechEvent_Tactical_Intro_Space_Defender> GES_INTRO_SPACE_DEFEND_E_00 <!--, GES_INTRO_SPACE_DEFEND_E_01, GES_INTRO_SPACE_DEFEND_E_02, GES_INTRO_SPACE_DEFEND_E_03-->  </SpeechEvent_Tactical_Intro_Space_Defender> 	<!-- Default case for space battle as defender -->
+		<SpeechEvent_Tactical_Intro_Land_Attacker> GES_INTRO_LAND_ATTACK_E_00</SpeechEvent_Tactical_Intro_Land_Attacker>
+		<SpeechEvent_Tactical_Intro_Land_Defender> GES_INTRO_LAND_DEFEND_E_00</SpeechEvent_Tactical_Intro_Land_Defender>
+		<SpeechEvent_Tactical_Intro_Space_Attacker> GES_INTRO_SPACE_ATTACK_E_00</SpeechEvent_Tactical_Intro_Space_Attacker>
+		<SpeechEvent_Tactical_Intro_Space_Defender> GES_INTRO_SPACE_DEFEND_E_00</SpeechEvent_Tactical_Intro_Space_Defender>
 
 		<SpeechEvent_Tactical_Intro_Land_Raid_Defender> GES_INTRO_LAND_DEFEND_E_04 </SpeechEvent_Tactical_Intro_Land_Raid_Defender>  
-		<SpeechEvent_Tactical_Intro_Land_Raid_Attacker> </SpeechEvent_Tactical_Intro_Land_Raid_Attacker> <!-- N/A for Empire since does not raid -->
+		<SpeechEvent_Tactical_Intro_Land_Raid_Attacker> </SpeechEvent_Tactical_Intro_Land_Raid_Attacker>
 
 		<SpeechEvent_Tactical_Intro_Land_Attacker_Last_Location> GES_INTRO_LAND_ATTACK_E_05 </SpeechEvent_Tactical_Intro_Land_Attacker_Last_Location>
-		<SpeechEvent_Tactical_Intro_Land_Defender_Last_Location> GES_INTRO_LAND_DEFEND_E_05 </SpeechEvent_Tactical_Intro_Land_Defender_Last_Location>
+		<SpeechEvent_Tactical_Intro_Land_Defender_Last_Location> GES_INTRO_LAND_DEFEND_E_05 </SpeechEvent_Tactical_Intro_Land_Defender_Last_Location>-->
 
 														<!-- Note that conditionals will be evaluated in the order below, so order/priority is important -->
 														<!-- -->  
