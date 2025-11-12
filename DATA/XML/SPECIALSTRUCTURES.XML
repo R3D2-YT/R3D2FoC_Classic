@@ -6037,7 +6037,7 @@
 		<Shield_Refresh_Rate>20</Shield_Refresh_Rate>
 		<Energy_Capacity>999</Energy_Capacity>
 		<Energy_Refresh_Rate>999</Energy_Refresh_Rate>
-		<Affiliation>Rebel, Empire</Affiliation>
+		<Affiliation>Rebel, Empire, Independant</Affiliation>
 		<Base_Level_Available>1</Base_Level_Available>
 		
 		<Projectile_Types>Proj_Ship_Concussion_Missile_Satellite</Projectile_Types>
@@ -6124,7 +6124,7 @@
 		<Shield_Refresh_Rate>20</Shield_Refresh_Rate>
 		<Energy_Capacity>999</Energy_Capacity>
 		<Energy_Refresh_Rate>999</Energy_Refresh_Rate>
-		<Affiliation>Rebel, Empire</Affiliation>
+		<Affiliation>Rebel, Empire, Independant</Affiliation>
 		<Base_Level_Available>1</Base_Level_Available>
 		
 		<Projectile_Types>Proj_Ship_Large_Laser_Cannon_Red</Projectile_Types>
