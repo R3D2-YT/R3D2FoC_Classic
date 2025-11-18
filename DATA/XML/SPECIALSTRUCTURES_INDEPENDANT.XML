@@ -728,7 +728,7 @@
 		<SFXEvent_Ambient_Loop>Structure_Barracks_Loop</SFXEvent_Ambient_Loop>
 		<Behavior>DUMMY_GROUND_STRUCTURE</Behavior>
 		<LandBehavior>SPACE_OBSTACLE, LAND_OBSTACLE,REVEAL,SELECTABLE, HIDE_WHEN_FOGGED,DAMAGE_TRACKING,DUMMY_LAND_BASE_LEVEL_COMPONENT,UNIT_AI,TERRAIN_TEXTURE_MODIFICATION,SPAWN_SQUADRON,EARTHQUAKE_TARGET,ION_STUN_EFFECT, STUNNABLE</LandBehavior>
-		<Obstacle_Proxy_Type> R_Ground_Barracks_Build_Pad </Obstacle_Proxy_Type>
+		<Obstacle_Proxy_Type> Independant_Ground_Barracks_Build_Pad </Obstacle_Proxy_Type>
 		<Multisample_FOW_Check>Yes</Multisample_FOW_Check>
 		<Last_State_Visible_Under_FOW> Yes </Last_State_Visible_Under_FOW>
 		<Initial_State_Visible_Under_FOW>False</Initial_State_Visible_Under_FOW>
@@ -893,7 +893,7 @@
 		<SFXEvent_Ambient_Loop>Structure_Barracks_Loop</SFXEvent_Ambient_Loop>
 		<Behavior>DUMMY_GROUND_STRUCTURE</Behavior>
 		<LandBehavior>SPACE_OBSTACLE, LAND_OBSTACLE,REVEAL,SELECTABLE, HIDE_WHEN_FOGGED,DAMAGE_TRACKING,DUMMY_LAND_BASE_LEVEL_COMPONENT,UNIT_AI,TERRAIN_TEXTURE_MODIFICATION,SPAWN_SQUADRON,EARTHQUAKE_TARGET, STUNNABLE,ION_STUN_EFFECT, STUNNABLE</LandBehavior>
-		<Obstacle_Proxy_Type> E_Ground_Light_Vehicle_Factory_Build_Pad </Obstacle_Proxy_Type>
+		<Obstacle_Proxy_Type> Independant_Ground_Light_Vehicle_Factory_Build_Pad </Obstacle_Proxy_Type>
 		<Multisample_FOW_Check>Yes</Multisample_FOW_Check>
 		<Last_State_Visible_Under_FOW> Yes </Last_State_Visible_Under_FOW>
 		<Initial_State_Visible_Under_FOW>False</Initial_State_Visible_Under_FOW>
@@ -1052,7 +1052,7 @@
 		<SFXEvent_Ambient_Loop>Structure_Barracks_Loop</SFXEvent_Ambient_Loop>
 		<Behavior>DUMMY_GROUND_STRUCTURE</Behavior>
 		<LandBehavior>SPACE_OBSTACLE, LAND_OBSTACLE,REVEAL,SELECTABLE, HIDE_WHEN_FOGGED,DAMAGE_TRACKING,DUMMY_LAND_BASE_LEVEL_COMPONENT,UNIT_AI,TERRAIN_TEXTURE_MODIFICATION,SPAWN_SQUADRON,EARTHQUAKE_TARGET,ION_STUN_EFFECT, STUNNABLE</LandBehavior>
-		<Obstacle_Proxy_Type> E_Ground_Heavy_Vehicle_Factory_Build_Pad </Obstacle_Proxy_Type>
+		<Obstacle_Proxy_Type> Independant_Ground_Heavy_Vehicle_Factory_Build_Pad </Obstacle_Proxy_Type>
 		<Multisample_FOW_Check>Yes</Multisample_FOW_Check>
 
 		<Last_State_Visible_Under_FOW> Yes </Last_State_Visible_Under_FOW>
@@ -1212,7 +1212,7 @@
 		<SFXEvent_Ambient_Loop>Structure_Barracks_Loop</SFXEvent_Ambient_Loop>
 		<Behavior>DUMMY_GROUND_STRUCTURE</Behavior>
 		<LandBehavior>SPACE_OBSTACLE, LAND_OBSTACLE,REVEAL,SELECTABLE, HIDE_WHEN_FOGGED,DAMAGE_TRACKING,DUMMY_LAND_BASE_LEVEL_COMPONENT,UNIT_AI,TERRAIN_TEXTURE_MODIFICATION,EARTHQUAKE_TARGET,ION_STUN_EFFECT, STUNNABLE</LandBehavior>
-		<Obstacle_Proxy_Type> R_Ground_Officer_Academy_Build_Pad </Obstacle_Proxy_Type>
+		<Obstacle_Proxy_Type> Independant_Ground_Officer_Academy_Build_Pad </Obstacle_Proxy_Type>
 		<Multisample_FOW_Check>Yes</Multisample_FOW_Check>
 		<Last_State_Visible_Under_FOW> Yes </Last_State_Visible_Under_FOW>
 		<Terrain_Texture_Modifier_Material>62</Terrain_Texture_Modifier_Material>			
@@ -1485,7 +1485,7 @@
 		<Ranged_Target_Z_Adjust>20.0</Ranged_Target_Z_Adjust>
 		<Behavior>DUMMY_GROUND_STRUCTURE,SELECTABLE</Behavior>
 		<LandBehavior>SPACE_OBSTACLE, LAND_OBSTACLE,REVEAL,SELECTABLE, HIDE_WHEN_FOGGED,DAMAGE_TRACKING,DUMMY_LAND_BASE_LEVEL_COMPONENT,UNIT_AI, TERRAIN_TEXTURE_MODIFICATION,EARTHQUAKE_TARGET,ION_STUN_EFFECT, STUNNABLE</LandBehavior>
-		<Obstacle_Proxy_Type> Communications_Array_E_Build_Pad </Obstacle_Proxy_Type>
+		<Obstacle_Proxy_Type> Communications_Array_Independant_Build_Pad </Obstacle_Proxy_Type>
 		<Multisample_FOW_Check>Yes</Multisample_FOW_Check>
 		<Can_Contain_Heroes_During_Ground_Battle> Yes </Can_Contain_Heroes_During_Ground_Battle>
 
