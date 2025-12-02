@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+
+<SFXEvents>
+
+	<!-- Ton Falk -->
+
+	<SFXEvent Name="Unit_Complete_Ton_Falk">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>DATA/AUDIO/Space/TonFalk/TonFalk_Select_1.wav</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Select_Ton_Falk">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>DATA/AUDIO/Space/TonFalk/TonFalk_Select_1.wav DATA/AUDIO/Space/TonFalk/TonFalk_Select_2.wav DATA/AUDIO/Space/TonFalk/TonFalk_Select_3.wav</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Move_Ton_Falk">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>DATA/AUDIO/Space/TonFalk/TonFalk_Move_1.wav DATA/AUDIO/Space/TonFalk/TonFalk_Move_2.wav</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Attack_Ton_Falk">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>DATA/AUDIO/Space/TonFalk/TonFalk_Attack_1.wav DATA/AUDIO/Space/TonFalk/TonFalk_Attack_2.wav DATA/AUDIO/Space/TonFalk/TonFalk_Attack_3.wav</Samples>
+	</SFXEvent>
+
+</SFXEvents>

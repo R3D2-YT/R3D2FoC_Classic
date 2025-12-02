@@ -713,17 +713,17 @@
 
 		<SFXEvent_Build_Started>EHD_Build_Vehicle</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Unit_Canceled</SFXEvent_Build_Cancelled>
-		<SFXEvent_Build_Complete>Unit_Complete_Acclamator</SFXEvent_Build_Complete>
+		<SFXEvent_Build_Complete>Unit_Complete_Ton_Falk</SFXEvent_Build_Complete>
 		<SFXEvent_Ambient_Loop>Unit_Acclamator_Moving_Engine_Loop</SFXEvent_Ambient_Loop>
-		<SFXEvent_Select>Unit_Select_Acclamator</SFXEvent_Select>
-		<SFXEvent_Move>Unit_Move_Acclamator</SFXEvent_Move>
-		<SFXEvent_Fleet_Move>Unit_Fleet_Move_Acclamator</SFXEvent_Fleet_Move>
-		<SFXEvent_Attack>Unit_Attack_Acclamator</SFXEvent_Attack>
-		<SFXEvent_Guard>Unit_Guard_Acclamator</SFXEvent_Guard>
-		<SFXEvent_Stop>Unit_Stop_Acclamator</SFXEvent_Stop>
-		<SFXEvent_Barrage>Unit_Barrage_Acclamator</SFXEvent_Barrage>
-		<SFXEvent_Move_Into_Asteroid_Field> Unit_Asteroids_Acclamator </SFXEvent_Move_Into_Asteroid_Field>
-		<SFXEvent_Move_Into_Nebula> Unit_Nebula_Acclamator </SFXEvent_Move_Into_Nebula>
+		<SFXEvent_Select>Unit_Select_Ton_Falk</SFXEvent_Select>
+		<SFXEvent_Move>Unit_Move_Ton_Falk</SFXEvent_Move>
+		<SFXEvent_Fleet_Move>Unit_Move_Ton_Falk</SFXEvent_Fleet_Move>
+		<SFXEvent_Attack>Unit_Attack_Ton_Falk</SFXEvent_Attack>
+		<SFXEvent_Guard>Unit_Attack_Ton_Falk</SFXEvent_Guard>
+		<SFXEvent_Stop></SFXEvent_Stop>
+		<SFXEvent_Barrage>Unit_Attack_Ton_Falk</SFXEvent_Barrage>
+		<SFXEvent_Move_Into_Asteroid_Field>  </SFXEvent_Move_Into_Asteroid_Field>
+		<SFXEvent_Move_Into_Nebula>  </SFXEvent_Move_Into_Nebula>
 		<SFXEvent_Damaged_By_Asteroid> SFX_Asteroid_Detonation </SFXEvent_Damaged_By_Asteroid>
 		<SFXEvent_Bombard_Select_Target>	EHD_Bombard_Select_Target </SFXEvent_Bombard_Select_Target>
 		<SFXEvent_Bombard_Incoming> EHD_Bombard_Incoming  </SFXEvent_Bombard_Incoming>
