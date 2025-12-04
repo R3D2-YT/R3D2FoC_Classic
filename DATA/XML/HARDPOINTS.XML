@@ -412,7 +412,7 @@
 		<Attachment_Bone>OTL_04</Attachment_Bone>             
 		<Collision_Mesh>OTL_04</Collision_Mesh>
 		<Damage_Decal>HP_SHL_00_BLAST</Damage_Decal>
-		<Damage_Particles>OTL_04_FIRE</Damage_Particles>
+		<Damage_Particles>OTL_FIRE_04</Damage_Particles>
 
 		<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles> 
 		<Death_Explosion_SFXEvent>Unit_Hardpoint_Bay_Death</Death_Explosion_SFXEvent>

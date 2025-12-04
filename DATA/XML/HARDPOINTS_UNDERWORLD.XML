@@ -2069,23 +2069,23 @@
 		 ability. Otherwise, use the DUMMY version.
 	-->
 
-    <HardPoint Name="HP_KRAYT_TRACTOR_BEAM">
+    <HardPoint Name="HP_KRAYT_TRACTOR_DUMMY">
 			<Type> HARD_POINT_TRACTOR_BEAM </Type>
 			<Tooltip_Text>TEXT_TRACTOR_BEAM_HARDPOINT</Tooltip_Text>
-			<Is_Targetable>Yes</Is_Targetable>
-			<Is_Destroyable>Yes</Is_Destroyable>
+			<Is_Targetable>No</Is_Targetable>
+			<Is_Destroyable>No</Is_Destroyable>
 			<Health>1000.0</Health>
 
-			<Attachment_Bone>HP_trac_00_bone</Attachment_Bone>             
-			<Collision_Mesh>HP_trac_00_bone</Collision_Mesh>
+			<Attachment_Bone>HANGAR_00</Attachment_Bone>             
+			<Collision_Mesh>HANGAR_00</Collision_Mesh>
 			<Damage_Decal>HP_TRAC_00_BLAST</Damage_Decal>
-			<Damage_Particles>HP_TRAC_00_EMITDAMAGE</Damage_Particles>
+			<Damage_Particles>HANGAR_00_Damage</Damage_Particles>
 
 			<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles> 
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Bay_Death</Death_Explosion_SFXEvent>
 	</HardPoint>
 
-	<HardPoint Name="HP_KRAYT_TRACTOR_DUMMY">
+	<HardPoint Name="HP_KRAYT_TRACTOR_DUMMY_0">
 			<Type> HARD_POINT_DUMMY_ART </Type>
 			<Is_Targetable>No</Is_Targetable>
 			<Is_Destroyable>No</Is_Destroyable>

@@ -8,7 +8,7 @@
 		<Encyclopedia_Good_Against> Rebel_Trooper Stormtrooper </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> TIE_Crawler Dark_Trooper_PhaseII UC_Rebel_Buildable_Anti_Infantry_Turret </Encyclopedia_Vulnerable_To>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_INFANTRY </Encyclopedia_Unit_Class>
-		<Encyclopedia_Text> TEXT_UNIT_UNDERWORLD_MERC_ENCYC TEXT_TOOLTIP_UNIT_CAPTURE_ABILITY </Encyclopedia_Text>
+		<Encyclopedia_Text> TEXT_UNIT_UNDERWORLD_B1_ENCYC TEXT_TOOLTIP_UNIT_CAPTURE_ABILITY </Encyclopedia_Text>
 		<Icon_Name>I_BUTTON_b1.tga</Icon_Name>
 
 		<Land_Model_Name>cis_bdroid.ALO</Land_Model_Name>
@@ -249,7 +249,7 @@
 		<Encyclopedia_Good_Against> Rebel_Trooper Stormtrooper </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> TIE_Crawler Dark_Trooper_PhaseII UC_Rebel_Buildable_Anti_Infantry_Turret </Encyclopedia_Vulnerable_To>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_INFANTRY </Encyclopedia_Unit_Class>
-		<Encyclopedia_Text> TEXT_UNIT_UNDERWORLD_MERC_ENCYC TEXT_TOOLTIP_UNIT_CAPTURE_ABILITY </Encyclopedia_Text>
+		<Encyclopedia_Text> TEXT_UNIT_UNDERWORLD_B2_ENCYC TEXT_TOOLTIP_UNIT_CAPTURE_ABILITY </Encyclopedia_Text>
 		<Icon_Name>I_BUTTON_b2.tga</Icon_Name>
 		<Land_Model_Name>cis_sbd.ALO</Land_Model_Name>
 		<Projectile_Types>Proj_Hand_Blaster_Red</Projectile_Types>
