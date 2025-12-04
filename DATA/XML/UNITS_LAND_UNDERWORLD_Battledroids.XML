@@ -81,11 +81,11 @@
 		<CategoryMask> Infantry </CategoryMask>
 		<MovementClass> Infantry </MovementClass>
 		<SurfaceFX_Name>Generic_Footprint, Infantry_Terrain_Modifier</SurfaceFX_Name>
-		<SFXEvent_Select>  </SFXEvent_Select>         		
-		<SFXEvent_Move>  </SFXEvent_Move>  
-		<SFXEvent_Fleet_Move></SFXEvent_Fleet_Move>
-		<SFXEvent_Attack>  </SFXEvent_Attack>         		 
-		<SFXEvent_Guard>  </SFXEvent_Guard>            		 
+		<SFXEvent_Select> Unit_Select_Battle_Droid </SFXEvent_Select>         		
+		<SFXEvent_Move> Unit_Move_Battle_Droid </SFXEvent_Move>  
+		<SFXEvent_Fleet_Move>Unit_Move_Battle_Droid</SFXEvent_Fleet_Move>
+		<SFXEvent_Attack> Unit_Attack_Battle_Droid </SFXEvent_Attack>         		 
+		<SFXEvent_Guard> Unit_Attack_Battle_Droid </SFXEvent_Guard>            		 
 		<SFXEvent_Assist_Move>  </SFXEvent_Assist_Move>		
 		<SFXEvent_Assist_Attack>  </SFXEvent_Assist_Attack> 
 		<Death_SFXEvent_Start_Die></Death_SFXEvent_Start_Die>
@@ -166,8 +166,8 @@
 
 		<SFXEvent_Build_Started>UHD_Build_Troops</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>UHD_Recruitment_Canceled</SFXEvent_Build_Cancelled>
-		<SFXEvent_Build_Complete></SFXEvent_Build_Complete>
-		<SFXEvent_Fleet_Move></SFXEvent_Fleet_Move>
+		<SFXEvent_Build_Complete>Unit_Complete_Battle_Droid</SFXEvent_Build_Complete>
+		<SFXEvent_Fleet_Move>Unit_Move_Battle_Droid</SFXEvent_Fleet_Move>
 
 		<Score_Cost_Credits>45</Score_Cost_Credits>
 
@@ -294,8 +294,8 @@
 
 		<SFXEvent_Build_Started>UHD_Build_Troops</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>UHD_Recruitment_Canceled</SFXEvent_Build_Cancelled>
-		<SFXEvent_Build_Complete></SFXEvent_Build_Complete>
-		<SFXEvent_Fleet_Move></SFXEvent_Fleet_Move>
+		<SFXEvent_Build_Complete>Unit_Complete_Battle_Droid</SFXEvent_Build_Complete>
+		<SFXEvent_Fleet_Move>Unit_Complete_Battle_Droid</SFXEvent_Fleet_Move>
 
 		<Score_Cost_Credits>45</Score_Cost_Credits>
 
